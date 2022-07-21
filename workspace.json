@@ -4,6 +4,8 @@
   "projects": {
     "blog": "packages/blog",
     "cli": "packages/cli",
-    "ascii": "packages/ascii"
+    "ascii": "packages/ascii",
+    "messsages": "packages/messages",
+    "cow": "packages/cow"
   }
 }
